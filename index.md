@@ -1,6 +1,6 @@
 ## Welcome to the Page I have created to expore the Segment.io to AWS Redshift integration
 
-I am gount to use this sample code to develop a basic web site and consume dummy tdata that will then be connected to an analytics application for testing
+I am going to use this sample code to develop a basic web site and consume dummy tdata that will then be connected to an analytics application for testing
 
 You can use the [editor on GitHub](https://github.com/vmaztrane/cleancloud-segmentio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
